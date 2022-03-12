@@ -5,8 +5,7 @@
 
 function over(element){
 
-     element.style.width="100px"
-     element.style.height="50px"
+     
      
 }
 function out(element){
