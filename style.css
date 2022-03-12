@@ -1,0 +1,64 @@
+body{
+
+    background-color: #03071e;
+    
+}
+
+#container{
+    width: 300px;
+    height: 400px;
+    background-color:rgba(0, 0, 0, 0.219);
+    margin: auto;
+    overflow: auto;
+    font-family: reis;
+    background-image: url("tabua.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 300px;
+    border-radius: 20px;
+    background-color: #03071e;
+}
+#den{
+    text-align: center;
+}
+
+input{
+    margin-bottom: 10px;
+    height: 25px;
+    border: none;
+    border-radius: 5px;
+}
+@font-face {
+    font-family: "reis";
+    src: url('reis.ttf') format("opentype");
+}
+
+
+button{ 
+    background: linear-gradient(to bottom, #E85D04 0%, #FFBA08 100%);
+    border-radius: 8px;
+    height: 30px;
+    font-family: reis,serif;
+    font-size: 20px;
+    font-weight: bolder ;
+    margin-bottom: 10px;
+
+}
+button:hover{
+    cursor: pointer;
+}
+#paragrafos{
+    margin: auto;
+}
+p{
+    font-family:reis,serif ;
+    font-size: 150%;
+    color:#e85d04 ;
+}
+
+#fogo{
+    width: 100%;
+    margin: auto;
+   
+}
+
